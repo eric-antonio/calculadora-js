@@ -11,3 +11,7 @@ let Result=()=>{
        window.alert('Erro de Digitação')
     }
 }
+
+function clr(){
+    result.value=" "
+}
